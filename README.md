@@ -1,9 +1,9 @@
 # 🎵 Spotify Dashboard  
 
 ## 📌 Overview  
-The **Spotify Dashboard** provides a detailed analysis of streaming trends, track popularity, and user listening patterns. This interactive Power BI dashboard visualizes key insights such as total streams, track popularity, dancibility, and release trends, helping users explore their favorite music.  
+The **Spotify Dashboard** provides a detailed analysis of streaming trends, track popularity, and user listening patterns. This interactive Power BI dashboard visualizes key insights such as total streams, track popularity, danceability, and release trends, helping users explore their favorite music.  
 
-![Spotify_Dashboard]()
+![Spotify_Dashboard](https://github.com/omkardhumma/Spotify---PowerBI/blob/master/Screenshot%20(10).png)
 
 ## 📊 Visualizations  
 
