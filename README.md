@@ -41,3 +41,8 @@ The **Spotify Dashboard** provides a detailed analysis of streaming trends, trac
 
 ## 🏁 Conclusion  
 The **Spotify Dashboard** provides a powerful way to explore streaming trends and user listening behavior. Whether you're a music enthusiast, industry analyst, or data geek, this dashboard offers valuable insights into Spotify's data.  
+
+## Feedback & Support  
+If you have any questions, suggestions, or feedback, feel free to reach out:  
+📩 **Email:** omkardwork1202@gmail.com
+💼 **LinkedIn:** www.linkedin.com/in/omkardhumma
